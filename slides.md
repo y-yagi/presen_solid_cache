@@ -48,6 +48,11 @@ hide: false
 ---
 
 ---
+src: ./pages/about_06.md
+hide: false
+---
+
+---
 src: ./pages/solid_cache_01.md
 hide: false
 ---

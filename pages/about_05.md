@@ -18,5 +18,3 @@ ActiveRecord::Schema[8.0].define(version: 1) do
 end
 ```
 
-* 通常のアプリケーションとは別のDBで扱う想定
-* 通常のアプリケーションと同じDBにしたい場合、上記schemaはmigrationファイルに移動するなどの手作業が必要
