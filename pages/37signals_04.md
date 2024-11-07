@@ -1,5 +1,4 @@
-# Solid Cache on 37signals
-
+# Storage Costs
 
 <img class="h-100" src="/images/37signals_storage_costs.png">
 

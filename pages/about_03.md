@@ -1,4 +1,4 @@
-# Solid Cache
+# Solid Cache from 37signals
 
 * 37signals製プロダクト
   * 既にBasecampとHEYの本番で使用中とのこと

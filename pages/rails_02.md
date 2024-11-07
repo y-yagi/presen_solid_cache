@@ -1,4 +1,4 @@
-# Solid Cache features
+# Config for Solid Cache
 
 * デフォルトで生成される設定ファイルは下記の通り
 

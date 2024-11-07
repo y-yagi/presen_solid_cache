@@ -14,6 +14,14 @@ transition: slide-left
 mdc: true
 favicon: https://ginzarb.github.io/favicon.ico
 canvasWidth: 1000
+
+fonts:
+  # basically the text
+  sans: 'Robot'
+  # use with `font-serif` css class from windicss
+  serif: 'Robot Slab'
+  # for code blocks, inline code, etc.
+  mono: 'Fira Code'
 ---
 
 ## Solid Cacheについてまなぼう
@@ -43,22 +51,27 @@ hide: false
 ---
 
 ---
-src: ./pages/about_05.md
+src: ./pages/rails_01.md
 hide: false
 ---
 
 ---
-src: ./pages/about_06.md
+src: ./pages/rails_02.md
 hide: false
 ---
 
 ---
-src: ./pages/solid_cache_01.md
+src: ./pages/rails_03.md
 hide: false
 ---
 
 ---
-src: ./pages/solid_cache_02.md
+src: ./pages/rails_04.md
+hide: false
+---
+
+---
+src: ./pages/rails_05.md
 hide: false
 ---
 

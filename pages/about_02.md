@@ -1,4 +1,4 @@
-# なぜDB
+# Cache Store on DB
 
 <img class="h-100" src="/images/solid_trifecta.png">
 

@@ -1,5 +1,4 @@
-# Solid Cache on 37signals
-
+# Performance
 
 <img class="h-100" src="/images/37signals_operation_performance.png">
 

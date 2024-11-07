@@ -1,4 +1,4 @@
-# Solid Cache
+# Schema for Solid Cache
 
 * テーブルを追加するためのmigrationファイルではなく、専用のschemaファイルが生成される
 
