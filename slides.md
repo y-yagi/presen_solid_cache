@@ -16,12 +16,8 @@ favicon: https://ginzarb.github.io/favicon.ico
 canvasWidth: 1000
 
 fonts:
-  # basically the text
-  sans: 'Robot'
-  # use with `font-serif` css class from windicss
-  serif: 'Robot Slab'
-  # for code blocks, inline code, etc.
-  mono: 'Fira Code'
+  sans: 'M PLUS 1p'
+  serif: 'M PLUS 1p'
 ---
 
 ## Solid Cacheについてまなぼう
